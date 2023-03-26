@@ -204,6 +204,31 @@
                             </button>
                         </div>
                     </div>
+                    <div class="commits-container bg-blue-100 rounded-md rounded-b-none border border-blue-200 border-b-0 flex items-center justify-between px-3 py-4 mt-5">
+                        <div class="flex items-center space-x-2">
+                            <img class="rounded-full w-6 h-6" src="https://avatars.githubusercontent.com/u/24208222?s=40&v=4">
+                            <a href="#" class="font-semibold hover:underline">ronaldgerits</a>
+                            <a href="#" class="hover:underline hover:text-blue-600">1.5.1</a>
+                        </div>
+                        <div>
+                            <div class="flex items-end">
+                                <a href="#">
+                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 text-green-500">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                                    </svg>
+                                </a>
+                                <a href="#" class="font-mono text-xs text-gray-600 hover:underline hover:text-blue-500 ml-2">da070bd</a>
+                                <a href="#" class="text-gray-600 hover:underline hover:text-blue-500 ml-2">4 days ago</a>
+                                <a href="#" class="flex items-center ml-3">
+                                    <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+                                        <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path>
+                                    </svg>
+                                    <span class="ml-1"><span class="span font-semibold">3,040</span> commits</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div> <!-- end commits-container -->
+
                 </div>
                 <div class="sidebar w-1/4 flex items-center">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorum praesentium quam quo, sapiente sunt velit veritatis! Ab, culpa cupiditate deserunt expedita laudantium maxime molestiae quisquam reiciendis sit suscipit unde!
