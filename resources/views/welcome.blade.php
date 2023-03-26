@@ -228,7 +228,40 @@
                             </div>
                         </div>
                     </div> <!-- end commits-container -->
+                    <div class="file-explorer rounded-md rounded-t-none border border-gray-400 text-gray-700 divide-y divide-gray-400">
+                        <div class="flex px-4 py-2 justify-between">
+                            <div class="w-4/12 flex items-center">
+                                <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="">
+                                    <path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path>
+                                </svg>
+                                <a href="#" class="hover:underline hover:textblue-600 ml-3">.github</a>
+                            </div>
+                            <div class="w-6/12 truncate">Update issues template</div>
+                            <div class="w-2/12 text-right">11 days ago</div>
+                        </div>
+                        <div class="flex px-4 py-2 justify-between">
+                            <div class="w-4/12 flex items-center">
+                                <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="">
+                                    <path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path>
+                                </svg>
+                                <a href="#" class="hover:underline hover:textblue-600 ml-3">.github</a>
+                            </div>
+                            <div class="w-6/12 truncate">Add new 'plugin' and 'plugin.withOptions' functions for creating new tags</div>
+                            <div class="w-2/12 text-right">11 days ago</div>
+                        </div>
+                        <div class="flex px-4 py-2 justify-between">
+                            <div class="w-4/12 flex items-center">
+                                <svg aria-label="Directory" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="">
+                                    <path d="M1.75 1A1.75 1.75 0 0 0 0 2.75v10.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0 0 16 13.25v-8.5A1.75 1.75 0 0 0 14.25 3H7.5a.25.25 0 0 1-.2-.1l-.9-1.2C6.07 1.26 5.55 1 5 1H1.75Z"></path>
+                                </svg>
+                                <a href="#" class="hover:underline hover:textblue-600 ml-3">.github</a>
+                            </div>
+                            <div class="w-6/12">Update issues template</div>
+                            <div class="w-2/12 text-right">11 days ago</div>
+                        </div>
 
+
+                    </div> <!-- end file explorer -->
                 </div>
                 <div class="sidebar w-1/4 flex items-center">
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum dolorum praesentium quam quo, sapiente sunt velit veritatis! Ab, culpa cupiditate deserunt expedita laudantium maxime molestiae quisquam reiciendis sit suscipit unde!
